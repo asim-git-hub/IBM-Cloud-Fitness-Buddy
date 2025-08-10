@@ -67,7 +67,7 @@ This project showcases how **prompt engineering + IBM Watsonx.ai** can power rea
 
 ## 🔗 GitHub Link
 
-> [https://github.com/Ayush-Nayak/IBM-Cloud-Fitness-Buddy](https://github.com/Ayush-Nayak/IBM-Cloud-Fitness-Buddy)
+> [https://github.com/asim-git-hub/IBM-Cloud-Fitness-Buddy](https://github.com/asim-git-hub/IBM-Cloud-Fitness-Buddy)
 
 ---
 
